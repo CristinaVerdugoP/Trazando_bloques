@@ -1,8 +1,7 @@
 .container{
-    padding: 30px;
-    width: 950px;
-    background-color: silver;
-    margin: 0px auto;
+    padding: 30px; /*espacio para el texto*/
+    width: 950px; /*tamaño grande para que contenga los demás elementos*/
+    background-color: silver;/*color del fondo de este bloque, lo mismo para los demas colores*/
 }
 .top-nav {
     height: 150px;
@@ -12,9 +11,9 @@
 .side-nav {
     height: 300px;
     width: 200px;
-    margin-right: 15px;
+    margin-right: 15px; /*margen a la derecha*/
     background-color: blue;
-    display: inline-block;
+    display: inline-block; /*Para que puedan moverse los bloques y alinearse*/
 
 }
 .main {
